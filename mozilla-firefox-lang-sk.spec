@@ -1,5 +1,5 @@
 
-%define         _lang		sk
+%define		_lang		sk
 
 Summary:	Slovak resources for Mozilla-firefox
 Summary(pl):	S³owackie pliki jêzykowe dla Mozilli-firefox
