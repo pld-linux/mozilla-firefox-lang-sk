@@ -4,12 +4,12 @@
 Summary:	Slovak resources for Mozilla-firefox
 Summary(pl):	S³owackie pliki jêzykowe dla Mozilli-firefox
 Name:		mozilla-firefox-lang-%{_lang}
-Version:	1.5.0.6
+Version:	1.5.0.8
 Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	514385c0e563411260c1e7cde23b613c
+# Source0-md5:	4dd3337258013008e5420f0ae81783d4
 URL:		http://www.mozilla.org/
 BuildRequires:	unzip
 Requires(post,postun):	mozilla-firefox >= %{version}
