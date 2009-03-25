@@ -2,12 +2,12 @@
 Summary:	Slovak resources for Firefox
 Summary(pl.UTF-8):	Słowackie pliki językowe dla Firefoksa
 Name:		mozilla-firefox-lang-%{_lang}
-Version:	3.0.5
+Version:	3.0.7
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://releases.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	ab0190aa209f319df665c5ac0fe46561
+# Source0-md5:	3b8c7777c7149d1d9d6b0b4ec81ef108
 URL:		http://www.mozilla.org/
 BuildRequires:	unzip
 Requires:	mozilla-firefox >= %{version}
